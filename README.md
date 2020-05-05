@@ -1,6 +1,8 @@
-# Algorithms (DLL)
+# Algorithms
 
-## Description
+* **[Sorting algorithms](https://en.wikipedia.org/wiki/Sorting_algorithm)**
+    1. [BubbleSort](https://github.com/artgl42/Algorithms/blob/master/SortingLibrary/SortingLibrary/SortingMethod/BubbleSort.cs)
+    2. [ShakerSort](https://github.com/artgl42/Algorithms/blob/master/SortingLibrary/SortingLibrary/SortingMethod/ShakerSort.cs)
 
 ## How To Use
 
