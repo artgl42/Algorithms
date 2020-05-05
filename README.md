@@ -1,7 +1,9 @@
 # Algorithms
 
-* **[Sorting algorithms](https://en.wikipedia.org/wiki/Sorting_algorithm)**
+* **[Sorting algorithms:](https://en.wikipedia.org/wiki/Sorting_algorithm)**
+
     1. [BubbleSort](https://github.com/artgl42/Algorithms/blob/master/SortingLibrary/SortingLibrary/SortingMethod/BubbleSort.cs)
+
     2. [ShakerSort](https://github.com/artgl42/Algorithms/blob/master/SortingLibrary/SortingLibrary/SortingMethod/ShakerSort.cs)
 
 ## How To Use
@@ -20,13 +22,13 @@ or
 
 ### **Step 2**
 
-Use methods of the **Sorting** class (the facade pattern):
+Use methods of the **Sorting** Class (the [facade pattern](https://en.wikipedia.org/wiki/Facade_pattern)):
 
 Available methods | Parameters                                         | Description
 :---------------- | :------------------------------------------------: | :--------------------------------
-`Sort`            | `T[]` arrayForSort, `ISortingMethod` sortingMethod | Sorting an array using the selected method
+`Sort`            | `T[]` arrayForSort, `ISortingMethod` sortingMethod | Sorting an array using the selected method where `T:IComparable`
 `GetRandomArray`  | `uint` length, `int` minValue, `int` maxValue      | Create and get an array
-`GetErrorIndex`   | `T[]` arrayForCheck                                | Check the array and get the index of the wrong element
+`GetErrorIndex`   | `T[]` arrayForCheck                                | Check the array and get the index of the wrong element where `T:IComparable`
 
 ## Simple example
 
