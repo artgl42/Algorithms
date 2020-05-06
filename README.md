@@ -4,6 +4,7 @@
 
 1. [BubbleSort](https://github.com/artgl42/Algorithms/blob/master/SortingLibrary/SortingLibrary/SortingMethod/BubbleSort.cs)
 2. [ShakerSort](https://github.com/artgl42/Algorithms/blob/master/SortingLibrary/SortingLibrary/SortingMethod/ShakerSort.cs)
+3. [SelectionSort](https://github.com/artgl42/Algorithms/blob/master/SortingLibrary/SortingLibrary/SortingMethod/SelectionSort.cs)
 
 ## How To Use
 
@@ -21,7 +22,7 @@ or
 
 ### **Step 2**
 
-Use methods of the **Sorting** Class (the [facade pattern](https://en.wikipedia.org/wiki/Facade_pattern)):
+Use methods of the `Sorting` Class (the [facade pattern](https://en.wikipedia.org/wiki/Facade_pattern)):
 
 Available methods | Parameters                                         | Description
 :---------------- | :------------------------------------------------: | :--------------------------------
@@ -29,12 +30,15 @@ Available methods | Parameters                                         | Descrip
 `GetRandomArray`  | `uint` length, `int` minValue, `int` maxValue      | Create and get an array
 `GetErrorIndex`   | `T[]` arrayForCheck                                | Check the array and get the index of the wrong element where `T:IComparable`
 
+Get the sorting time using the `Time` property of the `Sorting` Class.
+
 ## Simple example
 
 ```C#
 var arrayForSort = Sorting.GetRandomArray<int>(100, 0, 100);
 Sorting.Sort(arrayForSort, new BubbleSort(());
 errorIndex = Sorting.GetErrorIndex(arrayForSort);
+var usedTime = Sorting.Time;
 ```
 
 ## Licence
