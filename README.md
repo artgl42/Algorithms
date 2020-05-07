@@ -5,6 +5,8 @@
 1. [BubbleSort](https://github.com/artgl42/Algorithms/blob/master/SortingLibrary/SortingLibrary/SortingMethod/BubbleSort.cs)
 2. [ShakerSort](https://github.com/artgl42/Algorithms/blob/master/SortingLibrary/SortingLibrary/SortingMethod/ShakerSort.cs)
 3. [SelectionSort](https://github.com/artgl42/Algorithms/blob/master/SortingLibrary/SortingLibrary/SortingMethod/SelectionSort.cs)
+4. [GnomeSort](https://github.com/artgl42/Algorithms/blob/master/SortingLibrary/SortingLibrary/SortingMethod/GnomeSort.cs)
+5. ...
 
 ## How To Use
 
