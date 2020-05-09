@@ -6,7 +6,8 @@
 2. [ShakerSort](https://github.com/artgl42/Algorithms/blob/master/SortingLibrary/SortingLibrary/SortingMethod/ShakerSort.cs)
 3. [SelectionSort](https://github.com/artgl42/Algorithms/blob/master/SortingLibrary/SortingLibrary/SortingMethod/SelectionSort.cs)
 4. [GnomeSort](https://github.com/artgl42/Algorithms/blob/master/SortingLibrary/SortingLibrary/SortingMethod/GnomeSort.cs)
-5. ...
+5. [OddEvenSort](https://github.com/artgl42/Algorithms/blob/master/SortingLibrary/SortingLibrary/SortingMethod/OddEvenSort.cs)
+6. ...
 
 ## How To Use
 
