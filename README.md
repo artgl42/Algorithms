@@ -10,6 +10,7 @@
 6. [InsertionSort](https://github.com/artgl42/Algorithms/blob/master/SortingLibrary/SortingLibrary/SortingMethod/InsertionSort.cs)
 7. [QuickSort](https://github.com/artgl42/Algorithms/blob/master/SortingLibrary/SortingLibrary/SortingMethod/QuickSort.cs)
 8. [MergeSort](https://github.com/artgl42/Algorithms/blob/master/SortingLibrary/SortingLibrary/SortingMethod/MergeSort.cs)
+9. [CombSort](https://github.com/artgl42/Algorithms/blob/master/SortingLibrary/SortingLibrary/SortingMethod/CombSort.cs)
 
 ## How To Use
 
