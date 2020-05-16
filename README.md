@@ -12,6 +12,7 @@
 8. [MergeSort](https://github.com/artgl42/Algorithms/blob/master/SortingLibrary/SortingLibrary/SortingMethod/MergeSort.cs)
 9. [CombSort](https://github.com/artgl42/Algorithms/blob/master/SortingLibrary/SortingLibrary/SortingMethod/CombSort.cs)
 10. [HeapSort](https://github.com/artgl42/Algorithms/blob/master/SortingLibrary/SortingLibrary/SortingMethod/HeapSort.cs)
+11. [ShellSort](https://github.com/artgl42/Algorithms/blob/master/SortingLibrary/SortingLibrary/SortingMethod/ShellSort.cs)
 
 ## How To Use
 
